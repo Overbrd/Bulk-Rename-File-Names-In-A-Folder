@@ -14,3 +14,5 @@ Once you are happy with the changes you click an OK button and a warning confirm
 
 Once you click OK the filenames are all changed simultaneously.
 
+I used Visual Studio 2022 and VB.NET to create the app.
+
