@@ -6,7 +6,7 @@ GUI allows you to open a folder (including subfolders option also available).
 
 Once you open a folder it displays the folder contents alphabetized by file name only.
 
-It has an input box to choose the characters to replace and another input box to choose what characters to replace with.
+It has an input box to choose the characters to find and another input box to choose what characters to replace with.
 
 It has a third preview box which displays a real-time output of the proposed changes you are about to make.
 
